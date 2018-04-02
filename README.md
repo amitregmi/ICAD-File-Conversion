@@ -2,7 +2,7 @@
 Run program to convert iCAD file (*.icd) to Parasolid file (*.X_T)  
 
 # Prerequisites: 
-1. iCAD software should be open. 
+1. ICAD software should be open. 
 2. Setting of iCAD connection port. Default value is 3999 
 3. Setting of iCAD location installed in client computer 
 
